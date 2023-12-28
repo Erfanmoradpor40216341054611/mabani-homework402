@@ -9,6 +9,6 @@ int main()
         s+=a;
         std::cin>>a;
     }
-    std::cout<<"="<<s;344
+    std::cout<<"="<<s;
 
 }
